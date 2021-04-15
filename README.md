@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with Node.
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pedroabreu155&show_icons=true" alt="maykbrito"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pedroabreu155&show_icons=true&theme=gruvbox" alt="maykbrito"/></p>
 
 <p align="center">
 <a href="https://twitter.com/abr3us" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pedroabr3us" height="30" width="30"/></a>
