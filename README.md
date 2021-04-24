@@ -6,7 +6,7 @@
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pedroabreu155&show_icons=true&theme=gruvbox" alt="maykbrito"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pedroabreu155&show_icons=true&theme=gruvbox" alt="pedroAbreu"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedroabreu155&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="pedroAbreu"/></p>
 
 
