@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning Javascript, React and Node
 - 🤔 I’m looking for help with Node.
+- 💻 Actually working at Alest Consultoria
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedroabreu155&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="pedroAbreu"/></p>
