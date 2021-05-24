@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Javascript, React and Node
-- 🤔 I’m looking for help with Node.
+- 🌱 I’m currently learning TypeScript, React and Node
+- 🤔 I’m looking for help with Node and Firebase.
 - 💻 Actually working at Alest Consultoria
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
