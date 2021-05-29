@@ -6,6 +6,15 @@
 - 💻 Actually working at Alest Consultoria
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node-dot-js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedroabreu155&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="pedroAbreu"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pedroabreu155&show_icons=true&theme=gruvbox" alt="pedroAbreu"/></p>
 
