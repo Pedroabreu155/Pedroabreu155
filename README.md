@@ -25,5 +25,4 @@
 <a href="https://instagram.com/_abreus_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abreus" height="30" width="30"/></a>
 </p>
 
-  ![Snake animation](https://github.com/Pedroabreu155/Pedroabreu155)
 
