@@ -12,8 +12,10 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node-dot-js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedroabreu155&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="pedroAbreu"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pedroabreu155&show_icons=true&theme=gruvbox" alt="pedroAbreu"/></p>
