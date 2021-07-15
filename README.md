@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi everyone 👊
 
 - 🌱 I’m currently learning TypeScript, React and Node
 - 🤔 I’m looking for help with Node, Firebase and Angular.
