@@ -1,7 +1,7 @@
 ## Hi everyone 👊
 
 - 🌱 I’m currently learning TypeScript, React and Node
-- 🤔 I’m looking for help with Node, Firebase and Angular.
+- 🤔 I’m looking for help with Firebase and Google Cloud Platform.
 - 💻 Actually working at Alest Consultoria
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
