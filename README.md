@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Node, Graphql and React Native.
 - 🤔 I’m looking for help with Graphql, Prisma and Google Cloud Platform.
-- 💻 Actually working at Alest Consultoria
+- 💻 Actually working at Rank My App
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
 ## 🕺 About me
