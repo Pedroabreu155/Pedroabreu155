@@ -1,7 +1,6 @@
 ## Hi everyone 👊
 
 - 🌱 I’m currently learning Node and React Native.
-- 💻 Actually working at RankMyApp
 - 📫 How to reach me: pedroliveirabreu@gmail.com
 
 ## 🕺 About me
